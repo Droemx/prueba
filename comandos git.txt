@@ -1,0 +1,17 @@
+comandos git 
+
+git status = para ver los cambios que an habido
+git checkout "nombre" ejemplo Levi= para cambiar de rama
+git add. = para guardar los cambios en la cosa local de git
+git add nombre_archivo_actualizado (lo mismo que lo anterior solo que para un archivo especifico)
+
+git commit -m "mensaje que quiera agregar" (guardar de forma defitiva los cambios)
+
+git branch = enumera todas las ramas git
+git fetch = para descargar todo lo que esta en las nuevas ramasbr
+git checkout
+
+git branch -r (para checar las ramas que hay en el repositorio)
+git checkout rama_que_quiera_seleccionar (para entrar a alguna rama que quiera seleccionar)
+git pull (para descargar de github actualizaciones de su rama)
+git push (para enviar los cambios hechos a githun)
